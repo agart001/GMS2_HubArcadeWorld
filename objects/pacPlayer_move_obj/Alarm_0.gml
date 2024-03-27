@@ -1,0 +1,1 @@
+ghost_BC_obj.state = 1;

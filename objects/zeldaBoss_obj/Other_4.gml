@@ -1,0 +1,1 @@
+zeldaPlayer_baseclass_obj.hasSword = true;
